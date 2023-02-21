@@ -17,7 +17,7 @@ h1 {
   font-family: 'Sacramento', cursive;
   font-size: 5rem;
   line-height: 1.5;
-  margin: 50px auto 0px auto;
+  margin: 3.1rem auto 0 auto;
 }
 
 h2 {
@@ -35,8 +35,8 @@ h3 {
 hr {
   border-color: #D8D8D8;
   border-style: dotted;
-  border-width: 6px 0 0;
-  margin-bottom: 70px;
+  border-width: 0.4rem 0 0;
+  margin-bottom: 4.3rem;
   width: 8%;
 }
 
@@ -49,13 +49,13 @@ p {
 
 .bottom-container {
   background-color: #66BFBF;
-  margin-top: 80px;
-  padding: 40px 0 30px;
+  margin-top: 5rem;
+  padding: 2.5rem 0 2rem;
 }
 
 .top-container {
   background-color: #DEFCF9;
-  padding-top: 100px;
+  padding-top: 6rem;
   position: relative;
 }
 
@@ -87,31 +87,31 @@ p {
 }
 
 .contact-message {
-  margin: 40px auto 60px;
+  margin: 2.5rem auto 4rem;
 }
 
 .copyright {
   color: #EAF6F6;
-  font-size: 12px;
-  padding-top: 40px;
+  font-size: 0.75rem;
+  padding-top: 2.5rem;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 25%;
   bottom: 40%;
-  width: 200px;
+  width: 15%;
 }
 
 .top-cloud {
   position: absolute;
   right: 25%;
-  top: 10%;
-  width: 200px;
+  top: 8%;
+  width: 15%;
 }
 
 .footer-link {
-  margin: 0 20px 0 20px;
+  margin: 0 1.5rem 0 1.5rem;
 }
 
 .footer-link:hover {
@@ -119,8 +119,7 @@ p {
 }
 
 .mountain-img {
-  width: 650px;
-  margin-bottom: 38px;
+  width: 50%;
 }
 
 .pro {
@@ -128,11 +127,11 @@ p {
 }
 
 .profile {
-  margin: 50px auto 60px auto;
+  margin: 3rem auto 4rem auto;
 }
 
 .personal-description {
-  margin: 20px auto 20px auto;
+  margin: 1.5rem auto 1.5rem auto;
   width: 50%;
 }
 
@@ -141,7 +140,7 @@ p {
 }
 
 .skill-row {
-  margin: 80px auto 80px auto;
+  margin: 5rem auto 5rem auto;
   text-align: left;
   width: 50%;
 }
@@ -149,25 +148,25 @@ p {
 .web-image {
   width: 25%;
   float: left;
-  margin-right: 30px;
+  margin-right: 2rem;
 }
 
 .c-image {
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 2rem;
 }
 
 .python-image {
   width: 25%;
   float: left;
-  margin-right: 30px;
+  margin-right: 2rem;
 }
 
 .tree-image {
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 2rem;
 }
 
 
