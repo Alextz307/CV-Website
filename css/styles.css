@@ -15,7 +15,7 @@ body {
 h1 {
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
-  font-size: 400%;
+  font-size: 5rem;
   line-height: 1.5;
   margin: 3.1rem auto 0 auto;
 }
@@ -23,7 +23,7 @@ h1 {
 h2 {
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
-  font-size: 150%;
+  font-size: 2rem;
   font-weight: normal;
 }
 
