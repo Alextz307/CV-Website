@@ -98,15 +98,15 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 400px;
-  bottom: 300px;
+  left: 25%;
+  bottom: 40%;
   width: 200px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 400px;
-  top: 50px;
+  right: 25%;
+  top: 10%;
   width: 200px;
 }
 
